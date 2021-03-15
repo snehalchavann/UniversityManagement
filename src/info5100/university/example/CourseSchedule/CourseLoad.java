@@ -45,6 +45,7 @@ public class CourseLoad {
                            courses.add(sa.seat.getCourseName());
                 }
         }
+            System.out.println("info5100.university.example.CourseSchedule.CourseLoad.getListOfCoursesCompleted()");
         return courses;
     } 
     
